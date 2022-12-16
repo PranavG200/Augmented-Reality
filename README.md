@@ -11,7 +11,7 @@ Camera poses have then been recovered with two different approaches:
 2) solving the Persepective-three-point (P3P) and the Procrustes problem.
 
 After retrieving the 3D relationship between the camera and world, we can place an
-arbitrary objects in the scene.
+arbitrary objects in the scene. Check out the results
 
 ![image](https://drive.google.com/uc?export=view&id=12RKcF5_6rjIMhtI6V4MtwTPQtAdVa7LG)
 ![Alt text](VR_res.gif)
