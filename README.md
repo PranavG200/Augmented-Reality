@@ -14,4 +14,4 @@ After retrieving the 3D relationship between the camera and world, we can place 
 arbitrary objects in the scene.
 
 ![image](https://drive.google.com/uc?export=view&id=12RKcF5_6rjIMhtI6V4MtwTPQtAdVa7LG)
-![Output_gif](https://drive.google.com/uc?export=view&id=1--GdhrDuaCke1QHsdIZL6H1airMs1pjf)
+![Output_gif](https://drive.google.com/uc?export=view&id=GdhrDuaCke1QHsdIZL6H1airMs1pjf)
