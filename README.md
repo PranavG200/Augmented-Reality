@@ -13,4 +13,4 @@ Camera poses have then been recovered with two different approaches:
 After retrieving the 3D relationship between the camera and world, we can place an
 arbitrary objects in the scene.
 
-![image](https://drive.google.com/file/d/12RKcF5_6rjIMhtI6V4MtwTPQtAdVa7LG/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=12RKcF5_6rjIMhtI6V4MtwTPQtAdVa7LG)
