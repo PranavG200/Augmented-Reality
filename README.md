@@ -14,4 +14,4 @@ After retrieving the 3D relationship between the camera and world, we can place 
 arbitrary objects in the scene. Check out the results
 
 ![image](https://drive.google.com/uc?export=view&id=12RKcF5_6rjIMhtI6V4MtwTPQtAdVa7LG)
-![Alt text](VR_res.gif)
+![Alt text](Results/VR_res.gif)
